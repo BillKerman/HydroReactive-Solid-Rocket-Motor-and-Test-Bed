@@ -1,4 +1,4 @@
-<img width="932" height="476" alt="image" src="https://github.com/user-attachments/assets/31c22101-812b-463f-8b61-8e9539738bf1" /># HydroReactive-Solid-Rocket-Motor-and-Test-Bed
+# HydroReactive-Solid-Rocket-Motor-and-Test-Bed
 Design, Simulation, and Experimental Characterization  of a Hydro-Reactive Solid Rocket Motor and Test Bed
 
 <img width="932" height="476" alt="image" src="https://github.com/user-attachments/assets/d23ef7ce-c0e0-4f9a-b160-0dc83eeaf35c" />
